@@ -1,10 +1,10 @@
 # Project-2
 Top_50_Spotify_Tracks_of_2020
 
-#Context
+Context
 Imagine that you are a data analyst working for Spotify. Your team is responsible for content analysis, and in this quarter, you have decided to analyze Spotify's top hits and quantify what makes a hit song. Your team's product manager has many ideas and prepared a list of questions (requirements) that she wants you to get answers to. After reviewing the list of over 20 questions, you are not in a good mood - you'll have to work a couple of days to get all the answers. Luckily, a few days ago, an experienced data scientist working in your team queried the top 50 tracks for her machine learning project and agreed to share the data with you. This is a significant help - your SQL skills are not too sharp yet, and you don't yet know where to find all the relevant tables in your data warehouse. With this dataset, you are confident that you'll be able to answer all your PM's questions and maybe even look into some things that she didn't ask for.
 
-#Objectives for this Part  
+Objectives for this Part  
 Practice working with data from Kaggle.  
 Practice performing basic EDA.  
 Practice reading data, performing queries and filtering data using Pandas.  
